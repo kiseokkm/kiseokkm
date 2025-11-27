@@ -20,6 +20,6 @@
 - 동양미래대학교 컴퓨터소프트웨어공학과 | 2019.03 ~ 2024.02 | 
 
 ### Projects
-- Aro - 혼자 있는 어르신의 안전과 보호자의 안심을 위한 AI 돌봄 로봇 | 2025 동양미래대학교 졸업작품 | 2025.03 ~ 2025.11 | 🏆최우수상 [Github](https://github.com/DMU-IoTeam)
+- Aro - 어르신의 안전과 보호자의 안심을 위한 AI 돌봄 로봇 | 2025 동양미래대학교 졸업작품 | 2025.03 ~ 2025.11 | 🏆최우수상 [Github](https://github.com/DMU-IoTeam)
 - Echo - 실시간 메신저 커뮤니티 웹 애플리케이션 | 2024.07 ~ 2024.08 | [Github](https://github.com/echo1241/echo) [Retrospect](https://kiseokkm.tistory.com/123)
 - The November - 2023 동양미래대학교 학교 정보 키오스크 | 저비용 고효율 배리어프리 키오스크 | [Github](https://github.com/kiseokkm/2023-dmu-GraduationProject-DongyangMiraeKiosk)
